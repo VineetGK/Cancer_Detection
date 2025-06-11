@@ -102,6 +102,4 @@ If you use this work, please cite the original dataset and this repository:
 
 > Al‑Dhabyani W., Gomaa M., Khaled H., Fahmy A. Dataset of Breast Ultrasound Images. *Data in Brief*. 2020 Feb;28:104863. DOI: 10.1016/j.dib.2019.104863
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
