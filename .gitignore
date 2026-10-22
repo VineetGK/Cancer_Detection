@@ -1,0 +1,26 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Downloaded / extracted data
+data.zip
+content/
+kaggle_dataset_3/
+__MACOSX/
+UNG_weekly_15y.csv
+
+# Generated outputs and checkpoints
+Improved_adv1.csv
+*.pt
+*.pth
+*.h5
+*.keras
+
+# Experiment tracking
+wandb/

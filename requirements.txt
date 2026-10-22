@@ -1,0 +1,16 @@
+# Cancer_Detection.ipynb
+torch
+torchvision
+opencv-python
+numpy
+pandas
+matplotlib
+scikit-learn
+tqdm
+wandb
+# CLI used in the download cell (yadisk-direct)
+wldhx.yadisk-direct
+
+# Final_Project.ipynb (unrelated LSTM trading notebook)
+tensorflow
+seaborn
